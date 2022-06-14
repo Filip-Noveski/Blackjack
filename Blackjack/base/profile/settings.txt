@@ -1,0 +1,13 @@
+basic_strat: 1 # Notify the user if they make a basic strat mistake
+playing_dev: 1 # Notify the user if they make a deviation mistake
+dev_bs_notify: 0 # Notify the user if they make a deviation mistake, while basic strat is correct
+play_dev_tol: 0.5 # Tru count tolerance within which deviation mistakes are allowed
+betting_dev: 0 # Notify the user if they make a betting mistake
+bankroll_limit: 0 # Notify the user if they overbet with insufficient bankroll
+bet_dev_tol: 0 # Tru count tolerance within which deviation mistakes are allowed
+decks: 6 # Amount of decks to be used
+penetration: 5.5 # Amount of decks to be played before shuffling
+bj_pay: 0 # Blackjack/Natural Payout
+hit_s17: 0 # Does the dealer hit on a soft 17
+bet_unit: 5 # Player's betting unit
+bet_spread: 1 # Player's *to* bet-spread

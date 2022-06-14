@@ -1,0 +1,9 @@
+# Calculates the EV of the player (Money / Hand); Reset values when the amount of chips is changed via Settings
+hands_played: 16100 # The amount of hands the player has played
+blackjacks: 820 # The amount of blackjacks/naturals the player has gotten
+mistakes: 40 # The number of mistakes the player has made
+ace_up_A: 196 # The amount of times the  dealer has had an ace up above a true 3
+ace_up_Abj: 62 # The amount of times the  dealer has had an ace up and blackjack above a true 3
+ace_up_B: 926 # The amount of times the  dealer has had an ace up above a below 3
+ace_up_Bbj: 280 # The amount of times the  dealer has had an ace up and blackjack above a below 3
+money_change: 12890 # The change in money over the player's 'career'

@@ -1,0 +1,8 @@
+
+# DIRECTORIES
+/.vs
+/Blackjack/bin
+/Blackjack/obj/Debug
+
+# PROJECT FILES
+/*.sln
